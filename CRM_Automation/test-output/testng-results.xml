@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Method]]>
+    </line>
+    <line>
+      <![CDATA[Test Method]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26" started-at="2017-06-26T04:29:26Z" finished-at="2017-06-26T04:29:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26" started-at="2017-06-26T04:29:26Z" finished-at="2017-06-26T04:29:26Z">
+      <class name="TestNGEx.Ex1">
+        <test-method status="PASS" signature="method1()[pri:0, instance:TestNGEx.Ex1@1fb3ab6]" name="method1" is-config="true" duration-ms="3" started-at="2017-06-26T09:59:26Z" finished-at="2017-06-26T09:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method4()[pri:1, instance:TestNGEx.Ex1@1fb3ab6]" name="method4" duration-ms="4" started-at="2017-06-26T09:59:26Z" finished-at="2017-06-26T09:59:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:TestNGEx.Ex1@1fb3ab6]" name="method2" is-config="true" duration-ms="0" started-at="2017-06-26T09:59:26Z" finished-at="2017-06-26T09:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:TestNGEx.Ex1@1fb3ab6]" name="method1" is-config="true" duration-ms="0" started-at="2017-06-26T09:59:26Z" finished-at="2017-06-26T09:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method3()[pri:2, instance:TestNGEx.Ex1@1fb3ab6]" name="method3" duration-ms="1" started-at="2017-06-26T09:59:26Z" finished-at="2017-06-26T09:59:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:TestNGEx.Ex1@1fb3ab6]" name="method2" is-config="true" duration-ms="0" started-at="2017-06-26T09:59:26Z" finished-at="2017-06-26T09:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- TestNGEx.Ex1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
